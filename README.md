@@ -1,2 +1,1 @@
-# FIRST-WEBSITE-
-Successfully published website
+TinDog Starting Files
